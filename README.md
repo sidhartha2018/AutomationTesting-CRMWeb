@@ -1,5 +1,5 @@
 # Page Object model Test automation framework using Selenium with Java, TestNG and Maven-
-This is a sample project to demonstrate what is page object model framework and how it can used in selenium to automate any application.
+This is a sample project to demonstrate how using page object model design pattern we can automate any application, out here I used a free CRM website to do the automation.
 TestNG is used as test framework.
 
 Dependency
